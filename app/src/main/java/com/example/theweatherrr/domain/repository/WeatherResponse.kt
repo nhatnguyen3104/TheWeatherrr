@@ -1,4 +1,4 @@
-package com.example.theweatherrr
+package com.example.theweatherrr.domain.repository
 
 data class WeatherResponse(
     val weather: List<Weather>,
